@@ -1,4 +1,6 @@
+streamlit==1.56.0
 web3==6.0.0
+setuptools<82
 python-dotenv==1.0.0
-streamlit
-plotly
+plotly==6.7.0
+pandas==3.0.2
